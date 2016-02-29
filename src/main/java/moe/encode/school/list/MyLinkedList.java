@@ -241,8 +241,7 @@ public class MyLinkedList<E> implements List<E> {
 
 	@Override
 	public int size() {
-		int sz = 0;
-		Node<E> cur = this.first
+		return 0;
 	}
 
 	@Override
